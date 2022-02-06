@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "cloudflare-pixel-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Woker for javascript-free page view analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor McKelvey <connormckelvey@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@cfworker/uuid": "^1.12.1",
+    "cookie": "^0.4.2",
+    "itty-router": "^2.4.10"
+  }
+}

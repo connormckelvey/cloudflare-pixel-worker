@@ -1,0 +1,6 @@
+name = "cloudflare-pixel-worker"
+type = "webpack"
+
+workers_dev = true
+route = "example.com/pixel.gif"
+compatibility_date = "2022-02-06"
